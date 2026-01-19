@@ -14,10 +14,10 @@ export default function SuccessPage() {
           Jei per 15 minučių laiško nematote, patikrinkite šlamšto / reklamos
           skiltis. Esant klausimams, rašykite mums el. paštu{" "}
           <a
-            href="mailto:info@susiplanuok.lt"
+            href="mailto:info@suplanuok.lt"
             className="font-medium text-zinc-900 underline underline-offset-2"
           >
-            info@susiplanuok.lt
+            info@suplanuok.lt
           </a>
           .
         </p>
