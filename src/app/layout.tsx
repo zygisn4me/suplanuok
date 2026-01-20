@@ -69,7 +69,7 @@ export default function RootLayout({
                 </a>
               </nav>
               <a
-                href="https://buy.stripe.com/9B64gzaOh7nf0aD8Pu6Na01"
+                href="https://buy.stripe.com/5kQ8wPe0t5f72iL2r66Na02"
                 className="rounded-full bg-sky-600 px-4 py-2 text-sm font-medium text-white shadow-sm hover:bg-sky-500"
               >
                 Pirkti dabar

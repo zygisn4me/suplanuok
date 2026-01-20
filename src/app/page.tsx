@@ -26,7 +26,7 @@ export default function Home() {
           </p>
           <div className="flex flex-wrap gap-3">
             <a
-              href="https://buy.stripe.com/9B64gzaOh7nf0aD8Pu6Na01"
+              href="https://buy.stripe.com/5kQ8wPe0t5f72iL2r66Na02"
               className="rounded-full bg-slate-900 px-5 py-2.5 text-sm font-medium text-white shadow-sm hover:bg-slate-800"
             >
               Pirkti dabar
@@ -75,15 +75,15 @@ export default function Home() {
                 </p>
                 <div className="flex items-baseline gap-2">
                   <span className="text-xl font-semibold text-slate-900">
-                    €6,99
+                    €10,99
                   </span>
                 </div>
               </div>
               <a
-                href="https://buy.stripe.com/9B64gzaOh7nf0aD8Pu6Na01"
+                href="https://buy.stripe.com/5kQ8wPe0t5f72iL2r66Na02"
                 className="rounded-full bg-slate-900 px-6 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-slate-800"
               >
-                Pirkti dabar už €6,99
+                Pirkti dabar už €10,99
               </a>
             </div>
           </div>
@@ -116,7 +116,7 @@ export default function Home() {
               Įpročių sekimo lentelė (Google Sheets)
             </p>
             <div className="flex items-baseline gap-2">
-              <span className="text-2xl font-semibold text-slate-900">€6,99</span>
+              <span className="text-2xl font-semibold text-slate-900">€10,99</span>
               <span className="text-xs text-slate-500">vienkartinis mokėjimas</span>
             </div>
             <p className="text-xs text-slate-600">
@@ -124,10 +124,10 @@ export default function Home() {
               apmokėjimo Stripe sistemoje.
             </p>
             <a
-              href="https://buy.stripe.com/9B64gzaOh7nf0aD8Pu6Na01"
+              href="https://buy.stripe.com/5kQ8wPe0t5f72iL2r66Na02"
               className="mt-2 inline-flex w-full justify-center rounded-full bg-slate-900 px-6 py-2.5 text-sm font-semibold text-white hover:bg-slate-800"
             >
-              Pirkti dabar už €6,99
+              Pirkti dabar už €10,99
             </a>
           </div>
         </div>
@@ -190,10 +190,10 @@ export default function Home() {
             šiandien gali labai pakeisti, kaip jausitės po mėnesio.
           </p>
           <a
-            href="https://buy.stripe.com/9B64gzaOh7nf0aD8Pu6Na01"
+            href="https://buy.stripe.com/5kQ8wPe0t5f72iL2r66Na02"
             className="inline-flex items-center justify-center rounded-full bg-slate-900 px-5 py-2 text-xs font-medium text-white shadow-sm hover:bg-slate-800"
           >
-            Noriu pradėti planuoti kasdien už €6,99
+            Noriu pradėti planuoti kasdien už €10,99
           </a>
         </div>
       </section>
